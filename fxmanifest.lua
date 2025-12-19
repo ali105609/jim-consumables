@@ -16,6 +16,7 @@ shared_scripts {
 
     --Jim Bridge - https://github.com/jimathy/jim_bridge
     '@jim_bridge/starter.lua',
+    '@lation_ui/init.lua',
 }
 
 client_scripts {

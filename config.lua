@@ -3,10 +3,10 @@ Config = {
 		Debug = false,
 		EventDebug = false,
 
-		Menu = "qb",				-- "qb", "ox"
-		Notify = "gta",				-- "qb", "ox", "gta"
-		ProgressBar = "gta",		-- "qb", "ox", "gta"
-		drawText = "gta",			-- "qb", "ox", "gta"
+		Menu = "ox",				-- "qb", "ox"
+		Notify = "ox",				-- "qb", "ox", "gta"
+		ProgressBar = "ox",		-- "qb", "ox", "gta"
+		drawText = "ox",			-- "qb", "ox", "gta"
 
 	},
 	Main = {
